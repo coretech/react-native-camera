@@ -9,7 +9,8 @@
   "author": "Lochlan Wansbrough <lochie@live.com> (http://lwansbrough.com)",
   "peerDependencies": {
     "react": ">=15.4.0",
-    "react-native": ">=0.40"
+    "react-native": ">=0.40",
+    "prop-types": "^15.5.10"
   },
   "nativePackage": true,
   "license": "MIT",
